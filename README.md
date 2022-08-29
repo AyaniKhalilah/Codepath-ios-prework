@@ -2,16 +2,16 @@
 
 **Tip-Equipped** is a tip calculator application for iOS.
 
-Submitted by: **Ayani Bilal**
+Submitted by: **Ayani 💜**
 
-Time spent: **2** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [X] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -28,11 +28,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/XSSBsOG.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I struggled with recording the content because of issues with space on my macbook, so that took up a good chunk of time. I also tried to create the github repository using the desktop version of GitHub as was instructed, which I had a hard time adjusting to. I usually use the terminal, but I was really determined to get the hang of it once I started, and I think it worked out okay
 
